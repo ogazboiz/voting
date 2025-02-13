@@ -4,6 +4,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+the contract is 0xB08A8c95375bdf0670553cDECFfC3Be9d32e1fE0
 ```shell
 npx hardhat help
 npx hardhat test
